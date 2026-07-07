@@ -1,40 +1,528 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Royaume d'Angleterre",
+		"leaderName": "Roi Henri Plantagenêt",
+		"adjective": ["Les Plantagenêt"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Félon! Je vais vous châtié pour vous être rebellé!",
+		"attacked": "Qu'est-ce qui vous prend? Je suis votre Roi!",
+		"defeated": "En m'évinçant du Maine, vous vous mettez à dos toute l'Angleterre. Sa colère sera terrible.",
+		"introduction": "Je suis Henri Plantagenêt, héritier de Guillaume le Conquérant, surnommé l'Alexandre d'Occident, Roi d'Angleterre, Duc d'Aquitaine et de Normandie, Comte d'Anjou et du Maine : votre Suzerain. Fondateur d'une famille rayonnante de pouvoir à travers toute l'Europe ; beaucoup nous admire. Étant né au Mans, je connais bien Le Maine, notre territoire. Le comté du Maine est devenu territoire Anglais depuis mon accès récent au trône d'Angleterre. J'ai donné une indépendance relatives à chacun de mes territoires en France, façonnant ainsi votre culture, et vous offrant une grande liberté de gouvernance. J'ai d'ailleurs bâti au Mans un quartier novateur qui marqua son statut de pouvoir singulier : la Cité Plantagenêt. J'ai choisis personnellement votre Comte, et puisqu'il est sans héritier, il est de mon devoir de Suzerain de choisir un nouveau Comte. Le Roi de France cherche à prendre ce territoire par la force en portant la guerre sur vos terres. Cette attitude guerrière éveil chez certains l'esprit de la rébellion et ne fait qu'apporter le chaos. Un Roi ne peut laisser impuni un vassal traître. Gardez vos hommes sur le chemin de la raison. En ces temps troublés, restez-moi fidèle, et combattez l'envahisseur et ses rebelles.",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Salutations, vassal.",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Vous semblez avoir oubliez qui était votre suzerain...",
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"denounced": "Je vois maintenant plus clair à votre sujet...",
+		"declaringfriendship": "Il est temps de me montrer votre allégeance. Pliez genou, et le Royaume d’Angleterre sera à vos côtés. Refusez, et soyez châtiés.",
+		"tradeRequest": "Un accord solidifie les peuples. Vous acceptez?",
+
+		"outerColor": [153,5,3],
+		"innerColor": [255,184,33],
+		"uniqueName": "Suzerain de droit",
+		"uniques": ["May heal outside of friendly territory","[-50]% maintenance costs","[+1 Gold] from each Trade Route","City-State territory always counts as friendly territory","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","[+200]% [Iron] resource production","[+200]% [Horses] resource production","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-100]% unhappiness from the number of cities","[-200]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Angers","Le Vieux Maine","Cité Plantagenêt","Château Buzardière","Château de Cheneru","Château Eborcé","Château de Linières","Château de Brestel",
+			"Montbizot","La Hutte","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"],
+		"spyNames": ["Jean","Buck","Georges","Goliath"]
+	},
+	{
+		"name": "Montfort",
+		"leaderName": "Châtelaine Zina",
+		"adjective": ["Châtelaine Zina"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Je n'ai que faire vous. Donnez-moi ce que je veux.",
+		"attacked": "Vous souhaitez me voir en furie? Vous allez voir.",
+		"defeated": "Je vous maudis! Vous, votre famille, vos êtres aimés, tous! JE VOUS MAUDIS TOUS!",
+		"introduction": "Bonjour à vous. Je suis Dame Zina, châtelaine de Montfort. Jadis je n’étais que fille d’instructeur, amie avec le fils du boulanger de mon village, je n’avais que faire du pouvoir. Le temps à passé, j’ai grandi, et avec l’éducation exceptionnelle que j’ai reçue de mes parents, j’ai pu trouver place parmi les conseillers du seigneur de Montfort. A mes 20 ans, j’ai rencontré le seigneur Lothaire qui venait plaider l’aide de Montfort pour allier nos forces face au chaos du Maine. Mon coup de coeur pour cet homme me fit appuyer sa demande, et pendant un temps, ce fût l’alliance entre Montfort et Les Loups Chevronnés. Mais… Trop occupé par la guerre et les siens, Lothaire délaissa Montfort, et je fus déçue de lui. Avec le soutient du peuple qui m’a toujours vu comme la petite fille du village, j’organisa une révolte et le seigneur fût jeté à la porte. Un règne nouveau commença. Il était temps pour Montfort de marcher seul, et de lever bannière. Trop longtemps ma seigneurie s’est enlisée dans la paix, là où la gloire était sur le champ de bataille. Je suis Dame Zina de Montfort, la première châtelaine de ma seigneurie, et le temps de gloire pour mon peuple est arrivé.”,
+		
+		"neutralHello": "Comment allez-vous aujourd'hui?",
+
+		"hateHello": "Ah, vous... Je vous oubliais.",
+		
+		"denounced": "De bien grandes accusations pour une si petite personne...",
+		"declaringfriendship": "Devenons amis!",
+		"tradeRequest": "Je pense que ceci est dans notre intérêt.",
+
+		"outerColor": [61, 0, 109],
+		"innerColor": [240, 199, 0],
+		"uniqueName": "Une culture forte et singulière",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]","[1] free [Trebuchet] units appear <upon entering a war with [Major] Civilizations>","[1] free [Warrior] units appear <upon entering a war with [Hostile] Civilizations>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Montfort","Connerré","Lombron","Beillé","Dollon","Tuffé","Le Pissot","Le Luart","St Corneil","Sillé-le-Philippe","Torcé-en-Vallé","Lavaré","Torigné","Duneau","Bresteau","La Chaussé",
+			"La Ratée","Fatines","Saussay","Le Pressoire","Le Gué d'Arancé","Les Cassoires","Les Joizières","Loresse","Petite Landes","Brêteau","Le Closeau"]
+	},
+	{
+		"name": "La Bannière Pourpre",
+		"leaderName": "Seigneur",
+		"adjective": ["Le Seigneur à la Bannière Pourpre"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Vos biens seront mieux entre mes mains. Ecrasez-vous, ou mourrez.",
+		"attacked": "Ma bannière est pourpre. En ignoreriez-vous la raison? Vous le découvrirez en voyant la tête de vos hommes aux bouts des piques de mon étendrard.",
+		"defeated": "J'imagine que cela devait arriver... J'espère vous avoir laissé une belle cicatrice.",
+		"introduction": "Tout le monde connaît la bannière pourpre. Mais savez-vous pourquoi l’appelle-t-on ainsi?",
+		
+		"neutralHello": "Comment se portent vos chevaux?",
+
+		"hateHello": "Votre visage me déplait.",
+		
+		"denounced": "Vos accusations vous mènent sur un sentier dangereux...",
+		"declaringfriendship": "J’ai d’autres fiefs que les vôtres à convoiter. Cela fait de nous des amis?",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+		"outerColor": [37, 43, 33],
+		"innerColor": [255,0,0],
+		"uniqueName": "Votre pourpre me va si bien",
+		"uniques": ["Heals [30] damage if it kills a unit","[+20]% Health from pillaging tiles","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Savigné l'Evêque","Changé","Yvré l'Evèque","Champagné","St Corneille","La Douve","Les Trois Noyers","Montargie","Mortrie","Parence","Les Moreletes","Grand Champ",
+			"Monceaux","Le Tertre","Touvois","La Crapaudière","Le Chérais","Le Mesnil","L'Audinière","Courdoux","Les Breunières","Les Marais","La Perrigne",
+			"La Barrière"]
+	},
+	{
+		"name": "Sablé",
+		"leaderName": "Baron Fulbert",
+		"adjective": ["Le seigneur de Sablé"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la puissante seigneurie de Sablé. Je suis petit, trapu, barbu, et têtu comme un boeuf! Certains me compare au sanglier. Ils pensaient me vexer, mais j’en ai fait mon emblème! Ma priorité est mon peuple, et je suis fier de lui. Mes hommes me sont fidèles et me suivront jusqu’en enfer s’il le faut! Nous avons la réputation d’organiser les plus grands buffets du Maine! Je suis aussi connu pour avoir écraser les Loups Chevronnés lors de la bataille de La Nuit Ecarlate. Certains m’ont acclamés, d’autres ont fait les choqués. Mais si j’ai occis ce petit seigneur loup, c’est parce qu'il tentait de s’emparer de la couronne du Comte depuis l’intérieur des murs! Aucun autre sauf moi n’a eu le courage de le confronter à ses ambitions. Grâce à cette bataille, j’ai pris la ville du Mans. Et les autres seigneurs comme celui d’Ecommoy ont eu peur que je fasse comme le Loup. Le Marquis lui-même est intervenu! J’ai dû quitter la ville comme un vulgaire voleur, sans ovation pour avoir sauver la ville des griffes des Loups Chevronnés.",
+		
+		"neutralHello": "Ah c'est vous! Prenez place et parlons.",
+
+		"hateHello": "Regardez qui voilà...",
+		
+		"denounced": "Un seigneur me blâme? Et que puis-je en avoir à faire? Je me torcherai avec ce papier si vous voulez tous savoir.",
+		"declaringfriendship": "Préparons un grand buffet!",
+		"tradeRequest": "N'y passons pas la journée!",
+
+		"outerColor": [51,25,0],
+		"innerColor": [255,255,102],
+		"uniqueName": "A mort et à sac",
+		"uniques": ["Receive [+300]% Gold from Barbarian encampments and pillaging Cities","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Sablé","Loué","Parcé","Brûlon","Précigné","Auvers","St-Denis-d'Orques","Crannes-en-Champagne","Coulans-sur-Gée","Joué-en-Charnie","Longnes","Epineau","Juigné",
+			"Avoise","Tassé","Chantenay","Poillé","Avessé","Solesmes","Souvigné","Vion","Pincé","Louailles",
+			"Pirmil","Vallon","Maigné"]
+	},
+	{
+		"name": "Les Cerfs Argentés",
+		"leaderName": "Seigneur Gabor",
+		"adjective": ["Seigneur des Cerfs Argentés"],
+		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Comte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer! ^^ Bienvenue seigneur ;D Vous êtes le plus jeune seigneur des terres du Maine. Vous prenez votre ascension en pleine Guerre du Trône, le roi est mort, mais vous ne le connaisiez à peine. Vous subissez de plein fouet les ravages du conflit, en témoigne la prise de Savigné l'Evêque par le seigneur à la Bannière Pourpre. Certains vous jugent trop inexpérimentés pour vous considéré comme une menace. Montrer votre valeur aux peuples du Maine, reprenez votre domaine, et faites courir votre nom sur toutes les lèvres des Rois et seigneurs. Seigneur des Cerfs Argentés, construisez votre légende!",
+		
+		"declaringWar": "Vous êtes sur ma route. Soumettez-vous ou mon armée marchera sur vous.",
+		"attacked": "Avez-vous idée de ce que vous faites? Je me batterai avec brutalité.",
+		"defeated": "C'est à peine croyable... Hier j'éfleurais le trône, à la tête de la plus grande seigneurerie, et aujourd'hui je me meurt, par vous. Vous pouvez être fier. Prenez soin de mon peuple.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Qui va là! Ah c'est vous! Prenez place et parlons.",
+
+		"hateHello": "Haha mais regardez qui voilà... Que me veut-il celui-là?",
+		
+		"denounced": "The accusations of primitive lifeforms are benth us.",
+		"declaringfriendship": "Acceptez mon invitation ami!",
+		"tradeRequest": "Je vous propose un marché plutôt que la force. Soyez raisonnable.",
+
+		"outerColor": [43, 88, 46],
+		"innerColor": [205, 205, 205],
+		"uniqueName": "Libre par nature",
+		"uniques": ["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","[+100]% [Horses] resource production","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Malessard","Le Savignéen","La Poulainerie","Chataigné","Les Brûlés","Morionnière","La Garelle","Petit Malessard","Beauchamp",
+			"La Noé","Patisseau","Groie","Bel Saule","Grand Haunay","Commune","Sac à Crotte","Vieille Bique","Mhmm Pépite de Chocolat","Trouve Un Nom Toi Même Si Tu Es Si Malin Peau De Lapin"],
+		"spyNames": ["Gabriel","Thiault","Julienne","Miriame"]
+	},
+	{
+		"name": "Alpes Mancelles",
+		"leaderName": "Seigneur Anthèlme",
+		"adjective": ["Le Seigneur des Alpes Mancelles"],
+		"startBias": ["Hill", "Avoid [Coast]", "Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Vous ne me laissez pas le choix. Préparez vos hommes à la guerre.",
+		"attacked": "Jamais personne n'a pu prendre notre territoire. Vous vous écraserez comme les autres face à notre témérité.",
+		"defeated": "Le divin nous puni pour le crime des hommes. Vous non plus, être de vices, ne pourrez être épargner de la colère des cieux.",
+		"introduction": "Je suis Anthèlme, seigneur des Alpes Mancelles. Notre histoire commence quand Saint Cénéri partit de Rome en quête du divin, et jura de ne s’arrêter qu’aux premières montagnes rencontrées. En ce lieu, nous vivons en respect avec la nature, bien loin des tumultes de la vie politique. Lorsque la mort du Comte fut annoncée, nous ne nous soucions guère des conflits de succession. Comme nous transmis Saint Cénéri : ‘Temps que l’eau abreuve ton troupeau et les tiens, temps que le blé pousse de la terre, garde toi de penser que le monde va mal.’. En temps que seigneur, je ne peux m’arrêter uniquement aux paroles spirituelles d’un homme venu il y a 5 siècles. Les Alpes Mancelles regorge de minerai de fer de première qualité, le meilleur du Maine, et possède le courage de ses hommes comme atouts de guerre. On dit qu’une bonne arme est faite du fer des Alpes Mancelles, et façonnée par les forgerons des Tréfins. Les Alpes Mancelles regorgent de minerai de fer de première qualité, qui ont armée les plus puissantes armées : La Maison Garnier, Les Loups Chevronnés, et La Flèche. Après le massacre de la Nuit Ecarlate, je compris que Le Maine plongeait dans une ère sombre, où la violence et le chaos seront maître en ce monde. Je mis fin au commerce d’armes et ordonna la priorité à l’armement de notre propre armée. Si quiconque cherche à s’en prendre à mon peuple, il devra affronter nos lames, et nos célèbres tactiques d’embuscades. Aujourd’hui, les Alpes Mancelles sortent de leur sommeil ; ‘Observes la montagne. Je suis là.’.",
+		
+		"neutralHello": "C'est une belle journée pour être vivant.",
+
+		"hateHello": "Vous osez venir ici!?",
+		
+		"denounced": "Les accusation d'un être comme vous sont d'une importance mineure pour nous.",
+		"declaringfriendship": "Vous pouvez compter sur mon soutien.",
+		"tradeRequest": "Cette offre à de l'intérêt pour vous?",
+
+		"outerColor": [65, 141, 254],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Observes la montagne. Je suis là",
+		"uniques": ["[{Military} {Land}] units gain the [Drill I] promotion","[+100]% [Iron] resource production","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["St-Léonard-des-Bois","Sougé-le-Ganelon","St-Cénéri","St-Pierre-des-Nids","Le Rocher","Chevarières","Neuf Moulin","Le Coudray","St-Georges","Gesvres","Assé-le-Boisne","St-Paul","Les Bussionères",
+			"Gué Ory","La Chapelle","Le Grand Coslin","Le Verdillon","La Louverie",
+			"La Payardière","Le Boulay"]
+	},
+	{
+		"name": "Maison Garnier",
+		"leaderName": "Marquis Sion",
+		"adjective": ["Le Marquisat de Maison Garnier"],
+		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Je vous analyse depuis un certain temps. Et je vous préfère hors jeu que comme tel.",
+		"attacked": "Vous voulez jouer? Très bien jouons.",
+		"defeated": "Je sais reconnaître un adversaire de taille, et je les médis autant que je les respecte.",
+		"introduction": "Ma famille a le sang du guerrier dans ses veines. Originaires de Bretagne, nous avons forgé notre réputation sur le champ de bataille, sous la bannière des Plantagenêt. Remerciés par Henri en personne, nous avons hérité d’un château, de terres et de l’or pour nos services. Aujourd'hui nous formons la plus puissante Maison du Maine. Notre famille est présente parmis les plus hautes sphères du pouvoir des deux côtés de la Manche ; général des troupes anglaises, riche marchand d’art très influent à la capitale du royaume de France, artiste renommée, et même pendant un temps, conseillers du roi de France. Cela fait maintenant 4 générations que la Maison Garnier existe et prospère. Seulement, maintenant que le Comte est mort c'est le chaos qui règne sur Le Maine. Seule une grande puissance peut ramener de l’ordre en ces temps troublés. C’est pourquoi le roi Henri II Plantagenêt m’a fait nommé Marquis, un titre exceptionnel en temps de guerre, obligeant tous sujets du roi à m’obéir, offrir l’hospitalité à mes troupes, et à rallier bannière si je l’ordonne… Tout refus est trahison de la couronne. Le Mans est sous ma responsabilité jusqu'à ce que la situation s’apaise, et qu'un nouveau Comte soit choisis. Vous ne feriez tout de même pas exprès de prolonger le conflit?",
+		
+		"neutralHello": "Qu’apportez-vous?",
+
+		"hateHello": "Encore vous…",
+		
+		"denounced": "Voyez-vous ça...",
+		"declaringfriendship": "Notre entente est mutuelle. N’est-ce pas?",
+		"tradeRequest": "Cette offre devrait susciter de l'intérêt pour vous.",
+
+		"outerColor": [255,120,0],
+		"innerColor": [81,0,9],
+		"uniqueName": "Calculer l'irréprochable",
+		"uniques": ["[-50]% City-State Influence degradation","City-State Influence recovers at twice the normal rate","[+1 Production] from every [Strategic resource]","Enables Open Borders agreements <after discovering [Writing]>","Gain a free [Muraille Gallo-romaine] [in capital] <after discovering [Masonry]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+25]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Le Mans","Les Tréfins","Allones","Arnage","Coulaines","Pruillé","Mulsanne","Rouillon","Spay","La Chappelle-St-Aubin","St Saturnin","Ruaudin","Sargé","La Colline","Maisons Rouges","Fays","La Croix","Chauffour","Etival",
+			"Loupeland","Voivres","Trangé","La Futaie","Pizieux","La Monnerie","Malanderie","Le Couderai"]
+	},
+	{
+		"name": "Les Loups Chevronnés",
+		"leaderName": "Seigneur Lothaire",
+		"adjective": ["Seigneur des Loups Chevronnés"],
+		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Comme la nature, la politique à sa loi. Vous vous êtes fait proie pour le loup.",
+		"attacked": "Seul un couard envoie ses hommes à sa place, j'espère vous voir sur le champ de bataille.",
+		"defeated": "Je me suis battu pour ce qui m'est de plus cher en mon coeur. Je place mes espoirs en ceux qui me sont restés fidèles. Pas comme vous!",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Bonjour à toi!",
+
+		"hateHello": "Soyez agréable ou je vous fais jeter dehors.",
+		
+		"denounced": "Je vois maintenant plus clair à votre sujet...",
+		"declaringfriendship": "Je serai toujours là pour vous, comme la lune accompagne le loup.",
+		"tradeRequest": "L'échange est la base de toute relation. Qu'en pensez-vous?",
+
+		"outerColor": [239, 52, 52],
+		"innerColor": [10, 39, 117],
+		"uniqueName": "La voie du Loup",
+		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]","[-50]% Unhappiness from [Population] [in all cities] <during the [Medieval era]>","[-100]% Unhappiness from [Population] [in all cities] <during the [Renaissance era]>","Enables conversion of city production to [Science] <if [Tech Stopper _Medieval_] is not enabled>","Enables Research agreements <if [Tech Stopper _Medieval_] is not enabled>"],
+		"cities": ["La Houdennerie","Blandan","La Trugalle","Neuville","Montreuil","Le Grand Autreville","La Chénaie","Le Bouleau","Le Hameau","La Louverie","La Jolievière",
+			"La Touche","Pain Béni","Le Léard","Le Moulin","Petit Paris","Blanchardière"],
+		"spyNames": ["Léandre","Cornault","Poäna","Orthance","Eleanor","Ilhiam"]
+	},
+	{
+		"name": "Royaume de France",
+		"leaderName": "Roi Louis VII",
+		"adjective": ["Le Roi de France"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous avez choisis votre camp... Tant pis pour vous.",
+		"attacked": "Vous qui êtes inconnu à la cour de France... Comment imaginez-vous pouvoir me battre?",
+		"defeated": "Comment est-ce possible? Que dirait le fondateur de ma dynastie Hugues Capet? J'imagine que la coutume nécessite que je vous félicite malgré tout... Mais un autre Roi prendra ma place, et vous paierez.",
+		"introduction": "Je suis Louis VII, Roi de France, de la longue lignée des Capétiens. Ce putain d'Henri qui se fait appeler Roi d'Angleterre ou Empereur Plantagenêt à spoiler ma femme, Aliénor d'Aquitaine, et ses terres avec ! Qu'il soit Roi de cette île odieuse s'il le désire, il n'en reste pas moins mon vassal. Eh oui, cet Henri est Comte d'Angers, un territoire français, ce qui en fait mon obligé. Et il se targue bien de le dire ! Ce jeune homme de 19 ans pliait pourtant bien le genoux face à son Roi. Mais suite à son accession au trône, il à décider de proclamer anglais les territoires d'Aquitaine, de Normandie, d'Anjou, et du Maine. Nul besoin d'analyses longues et barbantes : c'est une déclaration de guerre ! La guerre d'un traître qui rêve de détruire un Royaume légendaire, bâtisseur de l'équilibre civilisationnel en Europe face aux barbares. Peuple du Maine, j'appelle à votre souveraineté et à votre courage : prenez votre avenir en main, ne vous soumettez pas à ce Roi construit sur le vol et l'infidélité. Rejoignez le puissant Royaume de France et combattez le Mal !",
+		
+		"neutralHello": "Salutations, sujet.",
+
+		"hateHello": "Tourner le dos au Royaume de France est une grave erreur...",
+		
+		"denounced": "Quelles bassaisses!",
+		"declaringfriendship": "Officialisez votre amitié avec le Royaume de France, et vous serez épargné de nos guerres. Refusez….",
+		"tradeRequest": "Je pense que ceci est dans votre intérêt.",
+		
+		"outerColor": [38, 98, 255],
+		"innerColor": [255,184,33],
+		"uniqueName": "Roi pour unir",
+		"uniques": ["[-100]% maintenance on road & railroads","[+1 Gold] from each Trade Route","[-50]% maintenance costs","City-State territory always counts as friendly territory","Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns","[+200]% [Iron] resource production","[+200]% [Horses] resource production","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-100]% unhappiness from the number of cities","[-200]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Chartres","Nogent-le-Rotrou","Château Bellefille","Château des Feugerets","Château de la Couetterie","Château d'Oyré","Château Eporcé","Château de Sources","Coudrecieux","Riqui","Poto","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"],
+		"spyNames": ["La Rose","Le Bel","Gentilhomme","Roland"]
+	},
+	{
+		"name": "Alençon",
+		"leaderName": "Baron Oton",
+		"adjective": ["Seigneur d'Alençon"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Ai-je besoin de vous expliquer ce qui va suivre? Les chairs seront meurtries, les os seront pulverisés, et vos hommes seront là, inertes, étendus dans la boue.",
+		"attacked": "Ah en voilà de l'audace! Voyons ce que vous savez faire.",
+		"defeated": "Eh bien vous avez gagné. Mon plus grand regret est de ne pas avoir pu planter ma hache dans votre crâne.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Bonjour.",
+
+		"hateHello": "Vous êtes?",
+		
+		"denounced": "Je ne l'oublierai pas.",
+		"declaringfriendship": "J’aime les haches. Vous aussi? Alors soyons amis!",
+		"tradeRequest": "Je déteste les négociations..! Acceptez! Que ce soit simple.",
+
+		"outerColor": [246,205,137],
+		"innerColor": [37, 43, 33],
+		"uniqueName": "Raid Normand",
+		"uniques": ["No movement cost to pillage <for [Melee] units>","When conquering an encampment, earn [15] Gold and recruit a Barbarian unit <with [67]% chance>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Alençon","Mamers","Neufchâtel","Villeneuve","Bourg le Roi","Rouessé","Oisseau-le-Petit","Louvigny","Fyé","Doucel","Dangeul","Piacé","Courgains","Monhoudou",
+			"Marolles","Chérancé","Ancinnes","Grandchamp","Les Mées","St Aignan","Fourniquet","Dissé","Jauzé",
+			"Pizieux","Corneveil","Les Biards","La Fournière"]
+		},
+		{
+		"name": "Ecommoy",
+		"leaderName": "Seigneur Mélisende",
+		"adjective": ["Seigneur de Ecommoy"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "C'est la guerre! Inspirons les bardes de nos hauts gestes.",
+		"attacked": "Qu'ai-je bien pu vous faire...",
+		"defeated": "Vieille bourique que vous êtes. J'en ai pourtant encore dans le ventre: tirez sur mon doigt.... PROUT!",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Belle journée.",
+
+		"hateHello": "Je ne peux supporter votre présence.",
+		
+		"denounced": "Tout ceci est ridicule!",
+		"declaringfriendship": "Aujourd’hui, célébrons notre amitié!",
+		"tradeRequest": "Mieux vaut tendre la main que de montrer son poing.",
+
+		"outerColor": [8, 8, 166],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Le peuple avant tout",
+		"uniques": ["[+1 Production] from every [Pasture]","[-50]% Gold cost of acquiring tiles [in all cities]","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Ecommoy","La Suze","Le Grand Lucé","Fillé","Guécélard","Montval","Teloché","St Mars","Pontvallain","Mayet","Courdemanche","Loir en Val",
+			"Lhomme","Luceau","Jupilles","Belin","Marigné","Oizé","Recueil","La Noirie","Petit Raidis",
+			"Outillé","Croix Genet"]
+		},
+		{
+		"name": "La Ferté Bernard",
+		"leaderName": "Baron Baudoin",
+		"adjective": ["Seigneur de La Ferté Bernard"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous êtes un obstacle à mes projets.",
+		"attacked": "Si nous devons nous battre, faisons le pour un avenir meilleur.",
+		"defeated": "Seul un monstre est apte à détruire. Vous vous faites honte à vous-même.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Toutes mes salutations.",
+
+		"hateHello": "Que voulez-vous...?",
+		
+		"denounced": "De telles accusations pour ça?!",
+		"declaringfriendship": "Nos peuples se réjouiraient de notre amitié.",
+		"tradeRequest": "Un accord pour nous satisfaire. Qu'en dîtes-vous?",
+
+		"outerColor": [255, 252, 3],
+        "innerColor": [18, 66, 22],
+		"uniqueName": "Connue et Respectée",
+		"uniques": ["[+1 Culture] from each Trade Route","[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Ferté Bernard","Bonnétable","Nogent-le-Bernard","Beaufay","Vibraye","La Bosse","Le Luard","Tuffé Val","Lamnay","Cormes","Théligny",
+			"Montmirail","Avezé","Cherré","La Monge","Böessé","Mousseries","Le Peloi","Le Buron"]
+		},
+		{
+		"name": "La Flèche",
+		"leaderName": "Baronne Mathilde",
+		"adjective": ["Châtelaine de La Flèche"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Pour écarter les vipères des hautes herbes, il ne suffit pas de frapper le sol pour les éloigner. Leur couper la tête est bien plus efficace.",
+		"attacked": "Vous allez goûter à la pointe de nos flèches!",
+		"defeated": "Je suis vaincue je le reconnais. Qu'est-il arriver pour que nous en arrivions là, à se tuer entre frères et soeurs du Maine... pour un trône?",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Ah c'est vous!",
+
+		"hateHello": "Allez voir ailleurs si j'y suis.",
+		
+		"denounced": "Ces accusations sont l'oeuvre de vraies vipères!",
+		"declaringfriendship": "Viendriez-vous chasser avec moi?",
+		"tradeRequest": "J'ai pensé à ceci pour vous.",
+
+		"outerColor": [81, 0, 137],
+		"innerColor": [213,249,255],
+		"uniqueName": "Archers de Renom",
+		"uniques": ["[+15]% Strength <for [Archery] units>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Flèche","Le Lude","Malicorne","Villaines Malicorne","Clermont Créans","Luché Pringé","Le Bailleuil","Mézeray","La Fontaine","Mansigné",
+			"Ligron","Crosmières","La Gilberdière","Courcelles","Bousse","Château","Belouze","La Jeterie","Juisses","Les Musses"]
+		},
+		{
+		"name": "Sillé-le-Guillaume",
+		"leaderName": "Baron Colin",
+		"adjective": ["Seigneur de Sillé-le-Guillaume"],
+		"startBias": ["[Lakes]","Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Je ne subirai pas mon destin, et vous ne faites pas partis de mon plan. Quel choix me reste-t-il?",
+		"attacked": "Je n'aime ni la mort, ni subir mon destin. Il ne me reste qu'à gagner je suppose?",
+		"defeated": "Je n'ai jamais été bon guerrier. Vous vanter de m'avoir vaincu vous rendrai ridicule.",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salut à vous.",
+
+		"hateHello": "Des problèmes, encore des problèmes. Qu'avez-vous d'autres à apporter?",
+		
+		"denounced": "Espèce de..!",
+		"declaringfriendship": "Dans ce tumulte, mieux avoir de bons amis.",
+		"tradeRequest": "Mon offre est sincère. Qu'en pensez-vous?",
+
+		"outerColor": [27,53,63],
+		"innerColor": [245,248,185],
+		"uniqueName": "Par delà la source",
+		"uniques": ["[{Military} {Land}] units gain the [Amphibious] promotion","[+1 Production, +1 Gold] from all [Culture] buildings <while the empire is happy>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Sillé-le-Guillaume","Conlie","Rouez","Tennie","Parennes","Rouessé Vassé","L'Etang Neuf","Vernie","Crissé","Pezé-le-Robert",
+			"Sucé","Neuvillalais","Pont de Monet","Ségrie","Montreuil-le-Chétif","Salaines","Val de Pierre","Les Douzes","Courgoult",
+			"Verniettes","L'Habit","Grand Eguille","Bois Boute","Grand Verger"]
+		},
+		{
+		"name": "Coallition de Sarthe",
+		"leaderName": "Seigneur Drystan",
+		"adjective": ["Coallition de Sarthe"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "La Sarthe se passera de vous!",
+		"attacked": "Rien n'ébranlera notre foi en un Maine indépendant. AUX ARMES!!!",
+		"defeated": "Le fer à parler, Le Maine ne sera jamais libre. Qu'allez-vous en faire?",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Salut à toi, camarade.",
+
+		"hateHello": "SARTHE LIBRE! SARTHE LIIBREEEE! Les anti-Sarthe on les pendra!",
+		
+		"denounced": "Un jour, le chef des Loups m'a dit : 'Dans la demeure d'un homme riche et sans vertues, il n'y a nulle part où cracher sauf sur son visage.'. Je ne sais pas si vous êtes riches mais quand aux vertues je suis fixé.",
+		"declaringfriendship": "Dans mes bras l’ami!",
+		"tradeRequest": "Alors vous en dîtes?",
+
+		"outerColor": [28,51,119],
+		"innerColor": [255, 56, 56],
+		"uniqueName": "L'union fait la force",
+		"uniques": ["When declaring friendship, both parties gain a [10]% boost to great person generation","[-300]% unhappiness from the number of cities","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Beaumont","Mamers","Le Lude","Ballon","Ste Jamme","St-Calais","La Bazoge","Joué-l'Abbé","Maisons Rouges","Bouloire","Teloché","Vivoin","Fyé","Ségrie",
+			"Cormes","Chantenay","La Quinte","Surfonds","Maisoncelles"]
+		},
+		{
+		"name": "Tours",
+		"leaderName": "Comtesse Astride",
+		"adjective": ["Comtesse de Tours"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "A l'instant où vous lisez ces mots, mon armée marche sur vous. Je vous écrit par cordialité, mais si je vous attaque, c'est que je compte vous occire.",
+		"attacked": "Vous ne manquer pas de courage je vous l'accorde!",
+		"defeated": "La Touraine, entre vos mains!? Comment ai-je pu laisser cela arriver!!",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Enchantée de vous revoir.",
+
+		"hateHello": "Mhmm?",
+		
+		"denounced": "Quelle bassaisse!",
+		"declaringfriendship": "Vous avez toute mon amitié.",
+		"tradeRequest": "Je crois que ceci sera bénéfique pour nous deux.",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [61, 0, 109],
+		"uniqueName": "Haute et Forte",
+		"uniques": ["[15] units cost no maintenance","Gain an extra spy","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-200]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["Tours","Vouvray","Château du Loir","Villebourg","St-Paterne-Racan","Château la Vallière","Marçon","Dissay","Beuil en Touraine","Bruère-sur-Loir","Aubigné-Racan","Vaas",
+			"Montabon","Neuvy-le-Roi","Chenu","Gué du Roi","Chahaignes","Lavernat","Verneil","Grandsart","Gringolerie","Fougeraie","Loiray",
+			"Le Souchet","Ruisseau"]
+		},
+		{
+		"name": "La Rose des Cendres",
+		"leaderName": "Châtelaine Suzanne",
+		"adjective": ["Châtelaine Suzanne de la Rose des Cendres"],
+		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		"introMusic": "La Rose des Cendres.mp3",
+		
+		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
+		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
+		
+		"declaringWar": "Vous vous en êtes pris à ce que j’ai de plus cher. Ma colère sera terrible!",
+		"attacked": "Vous avez perdu la raison!",
+		"defeated": "Quelle tragédie! Regardez autour de vous. La mort, les ruines, le silence. Est-ce cela le pouvoir pour vous?",
+		"introduction": "Je dirige la plus large segneurerie du Maine. J'ai en ma qualité les ressources nécessaires pour monter sur le trône du Maine. Me soutenez-vous?",
+		
+		"neutralHello": "Restez fort!",
+
+		"hateHello": "Vous m’avez déçue…",
+		
+		"denounced": "Traître!",
+		"declaringfriendship": "Joignons nos forces!",
+		"tradeRequest": "Du gâteau, du gâteau! Voulez-vous du gâteau?",
+
+		"outerColor": [255,168,168],
+		"innerColor": [84,26,26],
+		"uniqueName": "Tel le phoenix",
+		"uniques": ["[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [25] HP>","[+10]% [Culture] <when not at war>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"cities": ["La Roseraie","La Houdennerie","Blandan","La Trugalle","Neuville","Montreuil","Le Grand Autreville","La Chénaie","Le Bouleau","Le Hameau","La Jolievière",
+			"La Touche","Pain Béni","Le Léard","Le Moulin","Petit Paris","Blanchardière"],
+		"spyNames": ["Hélène","Salimar","Guenièvre","Obérhim"]
+		}
 ]
