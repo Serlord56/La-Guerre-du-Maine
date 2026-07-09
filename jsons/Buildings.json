@@ -21,5 +21,375 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
-	}
+	},
+	{
+		"name": "Impôt Seigneurial ",
+		"happiness": -15,
+		"uniques": ["[+33]% [Gold] [in all cities]","Only available <for [AI player] Civilizations> <hidden from users>","Only available <when number of [[Happiness] Per Turn] is more than [15]> <hidden from users>","Remove [Impôt Seigneurial ] [in this city] <when number of [[Happiness] Per Turn] is less than [-10]> <hidden from users>","Destroyed when the city is captured <hidden from users>","Limited to [1] per Civilization"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Impôt des Serfs ",
+		"happiness": -4,
+		"uniques": ["[+25]% [Gold] [in this city]","Only available <for [AI player] Civilizations> <hidden from users>","Only available <when number of [[Happiness] Per Turn] is more than [0]> <hidden from users>","Remove [Impôt des Serfs ] [in this city] <when number of [[Happiness] Per Turn] is less than [-15]> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Impôt Seigneurial",
+		"happiness": -15,
+		"uniques": ["[+33]% [Gold] [in all cities]","Only available <for [Human player] Civilizations> <hidden from users>","Destroyed when the city is captured <hidden from users>","Limited to [1] per Civilization"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "Impôt des Serfs",
+		"happiness": -4,
+		"uniques": ["[+25]% [Gold] [in this city]","Only available <for [Human player] Civilizations> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "La Dîme",
+		"faith": 5,
+		"uniques": ["[+25]% [Faith] [in this city]","Can only be built <in [Holy] cities>","Cannot be purchased","Destroyed when the city is captured <hidden from users>"],
+		"maintenance": 5,
+		"cost": 0,
+		"requiredTech": "Theology",
+	},
+	{
+		"name": "L'ôste ",
+		"happiness": -1,
+		"culture": -2,
+		"uniques": ["[+20]% Production when constructing [Military] units [in this city]","Only available <for [AI player] Civilizations> <hidden from users>","Unavailable <when below [5] [Culture]> <hidden from users>","Remove [L’ôste ] [in this city] <when number of [[Culture] Per Turn] is less than [4]> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
+		"maintenance": 1,
+		"cost": 0,
+		"requiredTech": "Metal Casting",
+		"civilopediaText": [
+            { "text": "L'ôste est le devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouve ce devoir, vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville." }
+        ]
+	},
+{
+		"name": "L'ôste",
+		"happiness": -1,
+		"culture": -2,
+		"uniques": ["[+20]% Production when constructing [Military] units [in this city]","Only available <for [Human player] Civilizations> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
+		"maintenance": 1,
+		"cost": 0,
+		"requiredTech": "Metal Casting",
+		"civilopediaText": [
+            { "text": "L'ôste est le devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouve ce devoir, vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville." }
+        ]
+	},
+	{
+		"name": "Baraquement des Sentinelles",
+		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
+		"requiredTech": "Trapping",
+	},
+	{
+		"name": "Salle secrète",
+		"uniques": ["[-25]% enemy spy effectiveness [in this city]"],
+		"requiredBuilding": "Baraquement des Sentinelles",
+		"requiredTech": "Drama and Poetry",
+	},
+	{
+		"name": "Réseau d'informateurs",
+		"uniques": ["[-33]% enemy spy effectiveness [in this city]","[+25]% spy effectiveness [in this city]"],
+		"requiredBuilding": "Salle secrète",
+		"requiredTech": "Education",
+		"civilopediaText": [
+            { "text": "Réduisez considérablement l'efficacité des espions ennemis, et améliorez celle de vos propres espions dans cette ville. Idéal pour capturer et neutraliser les fouineurs!" }
+        ]
+	},
+	{
+		"name": "Ecurie de Thelma",
+		"replaces": "Stable",
+		"uniqueTo": "Les Cerfs Argentés"
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"New [Mounted] units start with [15] XP [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Douane",
+		"uniqueTo": "Les Cerfs Argentés",
+		"gold": 1,
+		"happiness": 2,
+		"maintenance": 1,
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Muraille Gallo-romaine",
+		"uniqueTo": "Maison Garnier",
+		"culture": 2,
+		"isWonder": true,
+		"cityStrength": 6,
+		"cityHealth": 75,		
+		"uniques": ["Gain a free [Walls] [in this city]","[+100]% Gold given to enemy if city is captured","[+33]% weight to this choice for AI decisions"],
+		"requiredTech": "Masonry",
+		"quote": "Un chef d'oeuvre de construction qui suscita l'admiration de toute la Gaule, et fit parler de lui jusqu'à Rome. - Un certain guide touristique"
+	},
+	{
+		"name": "Champ de tir",
+		"uniqueTo": "La Flèche",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+20]% Production when constructing [Archery] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Fabrique d'Armes",
+		"replaces": "Workshop",
+		"uniqueTo": "Maison Garnier",
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"production": 10},
+		"uniques":["[+20]% [Iron] resource production <when at war>"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Bureau",
+		"uniqueTo": "Maison Garnier",
+		"uniques":["[+25]% Production towards any buildings that already exist in the Capital","Limited to [1] per Civilization"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Fabrique à Rillettes",
+		"uniqueTo": "Montfort",
+		"food": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 50,
+		"uniques": ["[+1 Food] from [Cattle] tiles [in this city]"],
+		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Tour",
+		"uniqueTo": "Tours",
+		"cityStrength": 10,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction",
+		"uniques": ["Destroyed when the city is captured","Limited to [3] per Civilization"]
+	},
+	{
+		"name": "Les Affranchis",
+		"uniqueTo": "La Flèche",
+		"isNationalWonder": true,
+		"culture": 2,
+		"specialistSlots": {"Artist": 3},
+		"requiredBuilding": "Amphitheater",
+		"hurryCostModifier": 25,
+		"uniques": ["[+25]% Great Person generation [in this city]","Destroyed when the city is captured"],
+		"requiredTech": "Drama and Poetry"
+	},
+	{
+		"name": "Eglise",
+		"uniqueTo": "Ecommoy",
+		"faith": 2,
+		"happiness": 1,
+		"requiredBuilding": "Temple",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Theology",
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Atelier de Siège",
+		"uniqueTo": "Royaume de France",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Atelier de Siège ",
+		"uniqueTo": "Royaume d'Angleterre",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Impôt du Tyran",
+		"isNationalWonder": true,
+		"replaces": "Impôt Seigneurial",
+		"uniqueTo": "La Bannière Pourpre",
+		"happiness": -15,
+		"uniques": ["[+50]% [Gold] [in all cities]"],
+		"cost": 0,
+		"requiredTech": "Civil Service",
+	},
+	{
+		"name": "24H Charettes",
+		"uniqueTo": "Sarthe",
+		"gold": 2,
+		"culture": 1,
+		"happiness": 1,
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"uniques": ["Destroyed when the city is captured"],
+		"requiredTech": "The Wheel",
+	},
+	{
+		"name": "Coco Plage",
+		"replaces": "Water Mill",
+		"uniqueTo": "Sillé-le-Guillaume",
+		"food": 1,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Porte St Julien",
+		"uniqueTo": "La Ferté Bernard",
+		"isNationalWonder": true,
+		"cost": "150",
+		"culture": 1,
+		"uniques": ["[+25]% [Culture] [in all cities]"],
+		"requiredTech": "Physics"
+	},
+	{
+		"name": "Theatre",
+		"happiness": 3,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Compass"
+	},
+	{
+		"name": "Halles",
+		"replaces": "Market",
+		"uniqueTo": "Sillé-le-Guillaume",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Lakes] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Ecole Militaire",
+		"uniqueTo": "Tours",
+		"replaces": "Barracks",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] XP [in this city]", "[+20]% Production when constructing [Spearman] units [in this city]", "[+20]% Production when constructing [Pikeman] units [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Lycée Bellevue",
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["All newly-trained [non-[Air]] units [in this city] receive the [Great Generals I] promotion"],
+		"requiredTech": "Education",
+		"quote": "'Oh ces Bellevusiens... Ils enchainent les blocus et fument surtout de la beuh. Je parie qu'aucun d'entre eux n'aura un grand avenir. J'en mets ma main à coupé!' - Un énième ignard, qui a perdu sa main."
+	},
+	{
+        "name": "Thermes Romaines",
+        "isWonder": true,
+        "uniques": ["Only available <when espionage is enabled>", "[-75]% enemy spy effectiveness [in this city]",
+            "[-25]% enemy spy effectiveness [in all cities]"],
+        "requiredTech": "Optics",
+        "quote": "'L'appat du gain révèle la vraie nature de ceux qui t'entourent. Ouvres les yeux, et fais le tris' - Comte du Maine au seigneur Lothaire dans 'La Guerre du Trône', écrit par moi-même lol"
+    },
+	{
+		"name": "Abbaye de l'Epau",
+		"culture": 1,
+		"faith": 3,
+		"greatPersonPoints": {"Great Artist": 1},
+		"isWonder": true,
+		"uniques": ["Gain a free [Monastery] [in this city]", "Only available <when religion is enabled>",
+            "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
+            "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion"],
+		"requiredTech": "Theology",
+		"quote": "'Qui peut rêver plus agréable demeure que la Foi en son coeur?.' - Reine Bérengère de Navarre"
+	},
+	{
+		"name": "Cathédrale St Julien",
+		"faith": 3,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["Gain a free [Temple] [in this city]", "Free [Great Prophet] appears", "Only available <when religion is enabled>"],
+		"requiredTech": "Theology",
+		"quote": "'De part tous les pays que j'ai pu traverser, c'est en ce lieu que j'aime me retrouver.' - Seigneur Lothaire dans 'Histoire des Loups Chevronnés', part Cénérion Pacius"
+	},
+	{
+		"name": "Petit Conseil de Guerre",
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[2] free [Catapult] units appear"],
+		"requiredTech": "Drama and Poetry",
+		"quote": "'Mesurer, calculer, anticiper, ne rien laisser au hasard.' - Appel à la réunion des Tréfins suite à la mort du Comte du Maine, Maison Garnier"
+	},
+	{
+		"name": "Grand Conseil de Guerre",
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","Gain a free [Castle] [in this city]","[1] free [Trebuchet] units appear"],
+		"requiredTech": "Chivalry",
+		"quote": "'Frapper fort n'est pas une question de force, mais une question de tempo.' - Seigneur Lothaire"
+	},
+	{
+		"name": "Recette Originale des Rilletes",
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"isWonder": true,
+		"uniques": ["Empire enters golden age"],
+		"requiredTech": "Trapping",
+		"quote": "'Les originales sont de Tours.' - Un homme mort"
+	},
+	{
+		"name": "Palais du Grabatoire",
+		"culture": 1,
+		"gold": 4,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"isWonder": true,
+		"uniques": ["[Gold] cost of purchasing items in cities [-15]%"],
+		"requiredTech": "Banking",
+		"quote": "'Un monument inconnu des manceaux alors qu'il est sous leurs yeux! C'était le palais de la Reine Bérengère, situé à l'emplacement de l'actuelle mairie, on y voit encore aujourd'hui la fenêtre originale de la chambre royale.' - Un certain guide touristique"
+	},
+	{
+		"name": "Maison de Bérengère",
+		"culture": 3,
+		"isWonder": true,
+		"uniques": ["[-100]% Unhappiness from [Population] [in this city]"],
+		"requiredTech": "Banking",
+		"quote": "'Pfff..! On a aucunes preuves que c'est bien sa maison!' - Un certain guide touristique"
+	},
+	{
+		"name": "Cité du Cirque",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Artist": 1},
+		"uniques": ["[+25]% Great Person generation [in all cities]", "Free Great Person"],
+		"requiredTech": "Physics",
+		"quote": "'Comment j'ai fait cette Merveille? Eh bien... De prime à bord je construisais une piscine puis à cause d'un mauvais calcul me voilà avec un chapiteau.' - L'architecte, histoire simplifiée MAIS VRAIE! Votre guide touristique"
+	},
+	{
+		"name": "24H Charettes",
+		"culture": 1,
+		"happiness": 8,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[+25]% Golden Age length"],
+		"requiredTech": "The Wheel",
+		"quote": "'Des charettes qui tournent en rond pendant une journée et une nuit... Si tu veux mon avis, ça prendra jamais.' - Un jugement un peu hatif peut-être?"
+	},
 ]
