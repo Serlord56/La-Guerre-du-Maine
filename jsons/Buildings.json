@@ -225,7 +225,7 @@
 		"replaces": "Impôt Seigneurial",
 		"uniqueTo": "La Bannière Pourpre",
 		"happiness": -15,
-		"uniques": ["[+50]% [Gold] [in all cities]"],
+		"uniques": ["[+50]% [Gold] [in all cities]","Only available <when number of [[Happiness] Per Turn] is more than [15]> <hidden from users>","Remove [Impôt du Tyran] [in this city] <when number of [[Happiness] Per Turn] is less than [-10]> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
 		"cost": 0,
 		"requiredTech": "Civil Service",
 	},
