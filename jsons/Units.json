@@ -25,6 +25,9 @@
 		"requiredTech": "Education",
 		"uniques": ["May capture killed [Military] units <with [100]% chance>","[-100]% maintenance costs","Limited to [1] per Civilization"],
 		"attackSound": "missile"
+		"civilopediaText": [
+            { "text": "Cette unité peut présenté des bugs... Il se peut que son action ne fonctionne pas, ou pire, que le jeu plante. Je suprimerai cette unité si le problème ne peut pas être résolu." }
+        ]
 	},
 	{
 		"name": "Décret Seigneurial",
@@ -313,6 +316,9 @@
 		"promotions": ["Great Generals II"],
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
+		"civilopediaText": [
+            { "text": "Les Brezelourd sont des guerriers sanguinaires et sans pitié, envoyé pour éradiquer" }
+        ]
 	},
 	{
 		"name": "Terreur Pourpre",
