@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Royaume d'Angleterre
   rotate: false
-  xy: 700, 1200
+  xy: 1200, 700
   size: 100, 100
   orig: 400, 400
   offset: 0, 0
@@ -32,7 +32,7 @@ NationIcons/La Rose des Cendres
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Les Cers Argentés
+NationIcons/Les Cerfs Argentés
   rotate: false
   xy: 4, 4
   size: 100, 100
@@ -53,7 +53,7 @@ NationIcons/La Ferté Bernard
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Les Alpes Mancelles
+NationIcons/Alpes Mancelles
   rotate: false
   xy: 4, 4
   size: 100, 100
@@ -123,30 +123,23 @@ NationIcons/Montfort
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Breeders
+BuildingIcons/24H Charettes
   rotate: false
-  xy: 112, 4
+  xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Abbaye de l'Epau
   rotate: false
-  xy: 220, 4
+  xy: 100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+UnitIcons/Archer Anglais
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 328, 4
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
