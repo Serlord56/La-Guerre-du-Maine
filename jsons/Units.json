@@ -225,7 +225,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Trébuchet du Briseur de château",
+		"name": "Trébuchet anglais",
 		"uniqueTo": "Royaume d'Angleterre",
 		"replaces": "Trebuchet",
 		"unitType": "Siege",
