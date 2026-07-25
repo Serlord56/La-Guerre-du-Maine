@@ -249,7 +249,7 @@ BuildingIcons/Fabrique à Rillettes
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Fabrique d'armes
+BuildingIcons/Fabrique d'Armes
   rotate: false
   xy: 700, 100
   size: 100, 100
