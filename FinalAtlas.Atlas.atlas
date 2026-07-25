@@ -361,7 +361,7 @@ UnitIcons/Brise Muraille
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cavalerie Cerf Argenté
+UnitIcons/Cavalerie des Cerfs Argentés
   rotate: false
   xy: 900, 0
   size: 100, 100
