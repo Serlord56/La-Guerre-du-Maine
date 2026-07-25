@@ -13,9 +13,9 @@ NationIcons/Royaume d'Angleterre
   index: -1
 NationIcons/Royaume de France
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 1200, 300
+  size: 400, 400
+  orig: 400, 400
   offset: 0, 0
   index: -1
 NationIcons/Les Loups Chevronnés
