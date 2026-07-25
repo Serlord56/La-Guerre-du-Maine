@@ -355,7 +355,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Héros de Sablé",
+		"name": "Héro de Sablé",
 		"unitType": "Sword",
 		"replaces": "Spearman",
 		"uniqueTo": "Sablé",
