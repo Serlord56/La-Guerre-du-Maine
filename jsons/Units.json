@@ -80,7 +80,7 @@
         ]
 	},
 	{
-		"name": "Décret Royal ",
+		"name": " Décret Royal",
 		"unitType": "Civilian",
 		"uniqueTo": "Royaume d'Angleterre",
 		"replaces": "Décret Seigneurial",
