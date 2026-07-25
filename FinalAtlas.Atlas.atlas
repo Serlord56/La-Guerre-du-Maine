@@ -326,7 +326,7 @@ BuildingIcons/Thermes romaines
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Tours
+BuildingIcons/Tour
   rotate: false
   xy: 200, 300
   size: 100, 100
