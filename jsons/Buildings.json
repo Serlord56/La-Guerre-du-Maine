@@ -136,7 +136,7 @@
 		"quote": "Un chef d'oeuvre de construction qui suscita l'admiration de toute la Gaule, et fit parler de lui jusqu'à Rome. - Un certain guide touristique"
 	},
 	{
-		"name": "Champ de tir",
+		"name": "Champ de Tir",
 		"uniqueTo": "La Flèche",
 		"replaces": "Barracks",
 		"hurryCostModifier": 25,
