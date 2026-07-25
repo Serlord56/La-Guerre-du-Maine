@@ -30,7 +30,7 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Impôt des Serfs ",
+		"name": "Impôt sur les Serfs ",
 		"happiness": -4,
 		"uniques": ["[+25]% [Gold] [in this city]","Only available <for [AI player] Civilizations> <hidden from users>","Only available <when number of [[Happiness] Per Turn] is more than [0]> <hidden from users>","Remove [Impôt des Serfs ] [in this city] <when number of [[Happiness] Per Turn] is less than [-15]> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
 		"cost": 0,
@@ -44,7 +44,7 @@
 		"requiredTech": "Civil Service",
 	},
 	{
-		"name": "Impôt des Serfs",
+		"name": "Impôt sur les Serfs",
 		"happiness": -4,
 		"uniques": ["[+25]% [Gold] [in this city]","Only available <for [Human player] Civilizations> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
 		"cost": 0,
