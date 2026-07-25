@@ -188,7 +188,7 @@ BuildingIcons/Petit Conseil de Guerre
   index: -1
 BuildingIcons/Recette Originale des Rillettes
   rotate: false
-  xy: 900, 200
+  xy: 1400, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -417,7 +417,7 @@ UnitIcons/Décret Royal
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/ Décret Royal
+UnitIcons/Décret royal
   rotate: false
   xy: 0, 100
   size: 100, 100
