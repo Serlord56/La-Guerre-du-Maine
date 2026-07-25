@@ -368,7 +368,7 @@ UnitIcons/Cavalerie Cerf Argenté
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cavalerie du Perche
+UnitIcons/Cavalier du Perche
   rotate: false
   xy: 1000, 0
   size: 100, 100
