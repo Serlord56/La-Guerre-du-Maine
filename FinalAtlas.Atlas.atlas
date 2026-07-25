@@ -284,7 +284,7 @@ BuildingIcons/L'ôste
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Les Halles 
+BuildingIcons/Halles 
   rotate: false
   xy: 1700, 100
   size: 100, 100
@@ -417,7 +417,7 @@ UnitIcons/Décret Royal
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Décret Royal 
+UnitIcons/ Décret Royal
   rotate: false
   xy: 0, 100
   size: 100, 100
