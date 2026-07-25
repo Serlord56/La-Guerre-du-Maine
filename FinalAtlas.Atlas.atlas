@@ -186,6 +186,13 @@ BuildingIcons/Petit Conseil de Guerre
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Recette Originale des Rillettes
+  rotate: false
+  xy: 900, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Baraquement des Sentinelles
   rotate: false
   xy: 400, 0
@@ -294,6 +301,34 @@ BuildingIcons/Impôt sur les Serfs
 BuildingIcons/Impôt sur les Serfs 
   rotate: false
   xy: 1800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Réseau d'informateurs
+  rotate: false
+  xy: 1500, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Salle secrète
+  rotate: false
+  xy: 1700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thermes romaines
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Tours
+  rotate: false
+  xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -483,6 +518,55 @@ UnitIcons/Piquier Sarthois
 UnitIcons/Pisteur
   rotate: false
   xy: 1100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Porte Etendard
+  rotate: false
+  xy: 1200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rebellion
+  rotate: false
+  xy: 1300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rodeur
+  rotate: false
+  xy: 1600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spadassin Anglais
+  rotate: false
+  xy: 1800, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spadassin Français
+  rotate: false
+  xy: 1900, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Terreur Pourpre
+  rotate: false
+  xy: 0, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Trébuchet français
+  rotate: false
+  xy: 300, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
