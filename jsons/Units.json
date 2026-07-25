@@ -165,7 +165,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Mancellalpien",
+		"name": "Mancellalpin",
 		"uniqueTo": "Alpes Mancelles",
 		"replaces": "Pikeman",
 		"unitType": "Sword",
