@@ -160,7 +160,7 @@
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Mancellalpien",
+		"upgradesTo": "Mancellalpin",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","[+25]% to Flank Attack bonuses"],
 		"attackSound": "metalhit"
 	},
