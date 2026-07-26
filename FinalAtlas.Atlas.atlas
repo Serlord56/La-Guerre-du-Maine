@@ -384,7 +384,7 @@ UnitIcons/Cavalier Franc
   index: -1
 UnitIcons/Coupe-gorge
   rotate: false
-  xy: 1100, 0
+  xy: 1500, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
