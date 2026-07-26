@@ -193,6 +193,13 @@ BuildingIcons/Recette Originale des Rillettes
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Thermes Romaines
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Baraquement des Sentinelles
   rotate: false
   xy: 400, 0
@@ -315,13 +322,6 @@ BuildingIcons/Réseau d'informateurs
 BuildingIcons/Salle secrète
   rotate: false
   xy: 1700, 200
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Thermes romaines
-  rotate: false
-  xy: 100, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
