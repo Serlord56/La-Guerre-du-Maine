@@ -54,7 +54,7 @@
 		"name": "La Dîme",
 		"faith": 5,
 		"uniques": ["[+25]% [Faith] [in this city]","Can only be built <in [Holy] cities>","Cannot be purchased","Destroyed when the city is captured <hidden from users>"],
-		"maintenance": 5,
+		"maintenance": 3,
 		"cost": 0,
 		"requiredTech": "Theology",
 	},
