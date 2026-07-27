@@ -102,7 +102,7 @@
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 		"civilopediaText": [
-            { "text": "La guerre est faite de sang, de boue, et de coups bas. Le Coupe-gorge élimine l'ennemi avant même que ce dernier sache d'où provient la menace, et disparaît aussitôt, prêt à chasser une nouvelle victime. Cette unité unique est particulièrement meurtrière, méfiez-vous en! Chaque unité à son point faible, faites parler votre génie militaire et le Coup-gorge ne sera pas un obstacle." }
+            { "text": "La guerre est faite de sang, de boue, et de coups bas. Le Coupe-gorge élimine l'ennemi avant même que ce dernier sache d'où provient la menace, et disparaît aussitôt, prêt à chasser une nouvelle victime. Cette unité unique est particulièrement meurtrière, méfiez-vous en!" }
         ]
 	},
 	{
@@ -119,6 +119,9 @@
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
 		"attackSound": "arrow"
+		"civilopediaText": [
+            { "text": "Formée à La Flèche, les Rodeurs sont des maitres de l'arc et du camouflage. Ils sont de parfaits espions, et peuvent être envoyé pour éliminer une cible précise, leur but étant d'éviter les combats ouverts. C'est grâce à leurs compétences que le seigneur Lothaire à pu se constituer une 'force de l'ombre', lui permettant de rester informer de chaques faits et gestes, et frapper fort aux moment opportun, malgré son armée décimée lors de la bataille de la Nuit Ecarlate." }
+        ]
 	},
 	{
 		"name": "Loup Chevronné",
@@ -134,6 +137,9 @@
 		"obsoleteTech": "Military Science",
 		"promotions": ["Quick Study"],
 		"attackSound": "metalhit"
+		"civilopediaText": [
+            { "text": "'L'Homme n'a eu de cesse de vouloir tout maitriser en ce monde, ne causant que chaos et désordre à l'harmonie de la Nature. Mais la dernière chose qu'il ne sait encore maitriser est sa propre peur. Toi, fils des Hommes, fait de chaire et de sang, va et deviens un Loup pour l'Homme. Montre lui en ses traits la colère des innocents, brave ta peur au profit de la justice, car toi, Loup Chevronné, ton courage fait ta force.'. Le serment des Loups Chevronnés. Ils sont de loin parmis les meilleurs guerrriers du Maine, formés aux Tréfins, armés avec le fer des Alpes Mancelles, ils vouent au seigneur Lothaire une fidélité rare louée par les bardes. Anciennement un corps d'armée au sein de la famille Garnier, puis devenu celui du seigneur Lothaire, ces hommes l'ont suivis jusqu'au bout et ont donné leur vies pour défendre les habitants du Mans dans l'escalier des Pans de Gorons, ils seraient certainement l'armée la plus puissante actuellement. Les survivants gardent préciesuement leur savoir d'armes unique, prêt à former de nouvelles recrues, et faire marcher à nouveau cette armée légendaire." }
+        ]
 	},
 	{
 		"name": "Normand",
