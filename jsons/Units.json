@@ -98,7 +98,7 @@
 		"movement": 3,
 		"strength": 5,
 		"cost": 170,
-		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [All] tiles>","Can move after attacking","Unavailable <when number of [[in all cities] Cities] is more than [5]>","[-100]% XP gained from combat","Limited to [1] per Civilization"]
+		"uniques": ["[+1000]% Strength <when attacking>","Invisible to non-adjacent units <in [All] tiles> <when above [50] HP>","Can move after attacking","Unavailable <when number of [[in all cities] Cities] is more than [5]>","[-100]% XP gained from combat","Limited to [1] per Civilization"]
 		"requiredTech": "Steel",
 		"attackSound": "metalhit"
 		"civilopediaText": [
