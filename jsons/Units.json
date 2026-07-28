@@ -120,7 +120,7 @@
 		"obsoleteTech": "Industrialization",
 		"attackSound": "arrow"
 		"civilopediaText": [
-            { "text": "Formée à La Flèche, les Rodeurs sont des maitres de l'arc et du camouflage. Ils sont de parfaits espions, et peuvent être envoyé pour éliminer une cible précise, leur but étant d'éviter les combats ouverts. C'est grâce à leurs compétences que le seigneur Lothaire à pu se constituer une 'force de l'ombre', lui permettant de rester informer de chaques faits et gestes, et frapper fort aux moment opportun, malgré son armée décimée lors de la bataille de la Nuit Ecarlate." }
+            { "text": "Formés à La Flèche, les Rodeurs sont des maitres de l'arc et du camouflage. Ils sont de parfaits espions, et peuvent être envoyé pour éliminer une cible précise, leur but étant d'éviter les combats ouverts. C'est grâce à leurs compétences que le seigneur Lothaire à pu se constituer une 'force de l'ombre', lui permettant de rester informer de chaques faits et gestes, et frapper fort aux moment opportun, malgré son armée décimée lors de la bataille de la Nuit Ecarlate." }
         ]
 	},
 	{
@@ -138,7 +138,7 @@
 		"promotions": ["Quick Study"],
 		"attackSound": "metalhit"
 		"civilopediaText": [
-            { "text": "'L'Homme n'a eu de cesse de vouloir tout maitriser en ce monde, ne causant que chaos et désordre à l'harmonie de la Nature. Mais la dernière chose qu'il ne sait encore maitriser est sa propre peur. Toi, fils des Hommes, fait de chaire et de sang, va et deviens un Loup pour l'Homme. Montre lui en ses traits la colère des innocents, brave ta peur au profit de la justice, car toi, Loup Chevronné, ton courage fait ta force.'. Le serment des Loups Chevronnés. Ils sont de loin parmis les meilleurs guerrriers du Maine, formés aux Tréfins, armés avec le fer des Alpes Mancelles, ils vouent au seigneur Lothaire une fidélité rare louée par les bardes. Anciennement un corps d'armée au sein de la famille Garnier, puis devenu celui du seigneur Lothaire, ces hommes l'ont suivis jusqu'au bout et ont donné leur vies pour défendre les habitants du Mans dans l'escalier des Pans de Gorons, ils seraient certainement l'armée la plus puissante actuellement. Les survivants gardent préciesuement leur savoir d'armes unique, prêt à former de nouvelles recrues, et faire marcher à nouveau cette armée légendaire." }
+            { "text": "'Toi, fils des Hommes, fait de chaire et de sang, va et deviens un Loup pour l'Homme. Montre lui en ses traits la colère des innocents, brave ta peur au profit de la justice, car toi, Loup Chevronné, ton courage fait ta force.'. Le serment des Loups Chevronnés. Ils sont de loin parmis les meilleurs guerrriers du Maine, formés aux Tréfins, armés avec le fer des Alpes Mancelles, ils vouent au seigneur Lothaire une fidélité rare louée par les bardes. Anciennement un corps d'armée au sein de la famille Garnier, puis devenu celui du seigneur Lothaire, ces hommes l'ont suivis jusqu'au bout et ont donné leur vies pour défendre les habitants du Mans dans l'escalier des Pans de Gorons, ils seraient certainement l'armée la plus puissante actuellement. Les survivants gardent préciesuement leur savoir d'armes unique, prêt à former de nouvelles recrues, et faire marcher à nouveau cette armée légendaire." }
         ]
 	},
 	{
@@ -290,6 +290,9 @@
 		"promotions": ["Home Sweet Home"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-15]% Strength <vs cities> <when attacking>"],
 		"attackSound": "horse"
+		"civilopediaText": [
+            { "text": "La cavalerie des Cerfs Argentés est réputée dans tout le Comté malgré leur récente existence : c’est vous dire leur efficacité! Seulement 2 autres seigneurs possèdent une cavalerie de renom, le baron de La Ferté Bernard, et l'énigmatique seigneur à La Bannière Pourpre. Qui du sombre chef de guerre, du baron expérimenté, ou du jeune seigneur saura faire meilleur usage de sa cavalerie ?" }
+        ]
 	},
 	{
 		"name": "Cavalier du Perche",
@@ -323,7 +326,7 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit"
 		"civilopediaText": [
-            { "text": "Les Brezelourd sont des guerriers sanguinaires et sans pitié, envoyé pour éradiquer" }
+            { "text": "Les Brezelourd sont des guerriers redoutables et sans pitié. Envoyés pour vaincre, seuls les plus valeureux oses leur tenir tête. Les autres fuis à leur vu..." }
         ]
 	},
 	{
@@ -342,6 +345,9 @@
 			"[-20]% Strength for enemy [Military] units in adjacent [All] tiles","[+20]% Strength <vs [Wounded] units>"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
+		"civilopediaText": [
+            { "text": "On raconte que sur le champ de bataille, ces cavaliers aguerris attaquent les hommes forts de l'ennemis pour les décapiter et planter leur tête sur la pointe de leur lance. Immaculant ainsi leur bannière du sang de l'ennemi, la légende de la Bannière Pourpre est née, et sa Terreur Pourpre en est son incarnation vivante." }
+        ]
 	},
 	{
 		"name": "Crache Poussière",
@@ -388,6 +394,9 @@
 		"uniques": ["Withdraws before melee combat <with [80]% chance>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
+		"civilopediaText": [
+            { "text": "Les éclaireurs pèlerins connaissent la marche comme nul autre. Rien de tel qu’avoir parcouru Compostelle pour être renommé bon marcheur ! N’étant pas des guerriers par nature, les éclaireurs pèlerins utilisent leur compétence pour arpenter chaque relief et dénivelé mieux que quiconque, et utilisent cet atout pour fuir en cas de combat rapproché. Parmis le Comté ce sont de loin les meilleurs éclaireurs avec les pisteurs d’Ecommoy !" }
+        ]
 	},
 	{
 		"name": "Porte Etendard",
@@ -402,6 +411,9 @@
             "Is part of Great Person group [General]",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+		"civilopediaText": [
+            { "text": "La bannière de dame Suzanne est une rose épineuse défiant les flammes, incapablent de brûler ses pétales. Cet étendard incarne la résilience et son porteur la diffuse dans les rangs de ses troupes." }
+        ]
 	},
 	{
 		"name": "Pisteur",
