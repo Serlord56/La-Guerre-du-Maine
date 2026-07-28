@@ -115,6 +115,9 @@
 			"[+1 Production] from [Horses] tiles [in this city]",
 			"[+1 Production] from [Sheep] tiles [in this city]"],
 		"requiredTech": "Horseback Riding"
+		"civilopediaText": [
+            { "text": "Faire la guerre à cheval c’est bien. Avoir une sœur pour entraîner ses cavaliers c’est sacrément bien aussi. Merci Thelma !" }
+        ]
 	},
 	{
 		"name": "Douane",
