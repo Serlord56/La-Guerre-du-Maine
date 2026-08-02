@@ -114,7 +114,7 @@
 		"strength": 9,
 		"rangedStrength": 20,
 		"cost": 140,
-		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Withdraws before melee combat <with [33]% chance>","No defensive terrain bonus"],
+		"uniques": ["Invisible to non-adjacent units <in [Forest] tiles>","Invisible to non-adjacent units <in [Jungle] tiles>","Withdraws before melee combat <with [33]% chance>","[-20]% Strength <vs cities> <when attacking>","No defensive terrain bonus"],
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
