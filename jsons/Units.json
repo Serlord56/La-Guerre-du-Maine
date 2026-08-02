@@ -129,7 +129,7 @@
 		"replaces": "Swordsman",
 		"uniqueTo": "Les Loups Chevronnés",
 		"movement": 2,
-		"strength": 14,
+		"strength": 15,
 		"cost": 85,
 		"requiredResource": "Iron",
 		"requiredTech": "Iron Working",
