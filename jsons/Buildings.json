@@ -23,7 +23,7 @@
 		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Impôt Seigneurial ",
+		"name": "Impôt seigneurial",
 		"happiness": -15,
 		"uniques": ["[+33]% [Gold] [in all cities]","Only available <for [AI player] Civilizations> <hidden from users>","Only available <when number of [[Happiness] Per Turn] is more than [15]> <hidden from users>","Remove [Impôt Seigneurial ] [in this city] <when number of [[Happiness] Per Turn] is less than [-10]> <hidden from users>","Destroyed when the city is captured <hidden from users>","Limited to [1] per Civilization"],
 		"cost": 0,
@@ -33,7 +33,7 @@
         ]
 	},
 	{
-		"name": "Impôt sur les Serfs ",
+		"name": "Impôt sur les serfs",
 		"happiness": -4,
 		"uniques": ["[+25]% [Gold] [in this city]","Only available <for [AI player] Civilizations> <hidden from users>","Only available <when number of [[Happiness] Per Turn] is more than [0]> <hidden from users>","Remove [Impôt des Serfs ] [in this city] <when number of [[Happiness] Per Turn] is less than [-15]> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
 		"cost": 0,
@@ -71,7 +71,7 @@
 		"requiredTech": "Theology",
 	},
 	{
-		"name": "L'ôste ",
+		"name": "L'Oste",
 		"happiness": -1,
 		"culture": -2,
 		"uniques": ["[+20]% Production when constructing [Military] units [in this city]","Only available <for [AI player] Civilizations> <hidden from users>","Unavailable <when below [5] [Culture]> <hidden from users>","Remove [L’ôste ] [in this city] <when number of [[Culture] Per Turn] is less than [4]> <hidden from users>","Destroyed when the city is captured <hidden from users>"],
