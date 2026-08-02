@@ -87,7 +87,7 @@
 		"movement": 4,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","Triggers a global alert <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization"],
+		"uniques": ["May enter foreign tiles without open borders","Gain control over [All] tiles in a [1]-tile radius <by consuming this unit>","[-1] Sight","[-100]% maintenance costs","Limited to [1] per Civilization"],
         "civilopediaText": [
             { "text": "Les Rois cherchent à s'emparer du Comté du Maine. Ce décret est beaucoup plus puissant que n'importe quel autre Décret, c'est l'avantage d'être Roi! Le Décret Royal peut se déplacer amplement plus vite, peut traverser n'importe quel territoire même sans Accord de Libre Passage, et donc atteindre n'importe quelles cases très lointaine plus rapidement. En résumer, les Rois peuvent revendiquer de larges territoires, quasiment n'importe où sur la carte, y compris aux portes de vos villes. Soyez leur allié, et ils ne toucheront peut-être pas à vos terres. Dressez-vous contre le pouvoir royal, et faites faces aux conséquences." }
         ]
