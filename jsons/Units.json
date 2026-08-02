@@ -256,7 +256,7 @@
 		"strength": 16,
 		"cost": 80,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+15]% Strength decreasing with distance from the capital","May capture killed [Military] units <with [33]% chance>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+15]% Strength decreasing with distance from the capital","May capture killed [Military] units <with [34]% chance>"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
