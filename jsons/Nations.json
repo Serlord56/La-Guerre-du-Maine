@@ -520,7 +520,7 @@
 		"outerColor": [255,168,168],
 		"innerColor": [84,26,26],
 		"uniqueName": "Tel le phoenix",
-		"uniques": ["[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [25] HP>","[Porte Etendard] is earned [+10]% faster","[+10]% [Culture] <when not at war>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+20]% Strength <for [{Military} {Land}] units> <when fighting in [Friendly Land] tiles> <when below [25] HP>","[Porte Etendard] is earned [+10]% faster <when at war>","[+10]% [Culture] <when not at war>","Enables Open Borders agreements <after discovering [Writing]>","Gain an extra spy <after discovering [Trapping]>","Gain an extra spy <after discovering [Philosophy]>","Gain an extra spy <after discovering [Compass]>","Reveals the entire map <upon discovering [Compass] technology>","[-250]% unhappiness from the number of cities","[+50]% Unhappiness from [Population] [in all cities]"],
 		"cities": ["La Roseraie","La Houdennerie","Blandan","La Trugalle","Neuville","Montreuil","Le Grand Autreville","La Chénaie","Le Bouleau","Le Hameau","La Jolievière",
 			"La Touche","Pain Béni","Le Léard","Le Moulin","Petit Paris","Blanchardière"],
 		"spyNames": ["Hélène","Salimar","Guenièvre","Obérhim"]
