@@ -1,28 +1,5 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	},
-	{
 		"name": "Impôt seigneurial",
 		"happiness": -15,
 		"uniques": ["[+33]% [Gold] [in all cities]","Only available <for [AI player] Civilizations> <hidden from users>","Only available <when number of [[Happiness] Per Turn] is more than [15]> <hidden from users>","Remove [Impôt Seigneurial ] [in this city] <when number of [[Happiness] Per Turn] is less than [-10]> <hidden from users>","Destroyed when the city is captured <hidden from users>","Limited to [1] per Civilization"],
@@ -132,14 +109,6 @@
         ]
 	},
 	{
-		"name": "Douane",
-		"uniqueTo": "Les Cerfs Argentés",
-		"gold": 1,
-		"happiness": 2,
-		"maintenance": 1,
-		"requiredTech": "Civil Service"
-	},
-	{
 		"name": "Muraille Gallo-romaine",
 		"uniqueTo": "Maison Garnier",
 		"culture": 2,
@@ -220,22 +189,6 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Theology",
 		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured"]
-	},
-	{
-		"name": "Atelier de Siège",
-		"uniqueTo": "Royaume de France",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Engineering"
-	},
-	{
-		"name": "Atelier de Siège ",
-		"uniqueTo": "Royaume d'Angleterre",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["New [Siege] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Engineering"
 	},
 	{
 		"name": "Impôt du Tyran",
