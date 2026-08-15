@@ -8,10 +8,10 @@
 		"range": 8,
 		"cost": 180,
 		"requiredTech": "Education",
-		"uniques": ["May capture killed [Military] units <with [100]% chance>","[-100]% maintenance costs","Limited to [1] per Civilization"],
+		"uniques": ["Unavailable","May capture killed [Military] units <with [100]% chance>","[-100]% maintenance costs","Limited to [1] per Civilization"],
 		"attackSound": "missile"
 		"civilopediaText": [
-            { "text": "Cette unité peut présenté des bugs... Il se peut que son action ne fonctionne pas, ou pire, que le jeu plante. Je suprimerai cette unité si le problème ne peut pas être résolu." }
+            { "text": "Dû à une instabilité du programme, j'ai préféré rendre cette unité indisponible pour éviter des bugs qui auraient pu carrément supprimer notre partie ! C'est dommage, mais mieux ainsi. Le jeu est suffisemment rempli pour poussez nos stratégies et reigner tels de vrais seigneurs féodaux alors séchez vos larmes de crocodile et retournez prendre soin de votre fief !" }
         ]
 	},
 	{
