@@ -1,20 +1,5 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	},
-	{
 		"name": "Rebellion",
 		"unitType": "Missile",
 		"movement": 1,
@@ -182,22 +167,6 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>","Invisible to non-adjacent units <in [Hill] tiles>","Double movement in [Hill]"],
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
-		"attackSound": "metalhit"
-	},
-	{
-		"name": "Ravageur",
-		"unitType": "Sword",
-		"replaces": "Berserker",
-		"uniqueTo": "Denmark, Alpes Mancelles",
-		"movement": 2,
-		"strength": 18,
-		"cost": 120,
-		"requiredTech": "Metal Casting",
-		"upgradesTo": "Musketman",
-		"obsoleteTech": "Metallurgy",
-		"requiredResource": "Iron",
-		"uniques": ["Invisible to non-adjacent units <in [Hill] tiles>","No movement cost to pillage", "[+20]% Strength <when fighting in [Foreign Land] tiles>"]
-		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
 	{
