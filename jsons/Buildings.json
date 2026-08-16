@@ -115,7 +115,7 @@
 		"isWonder": true,
 		"cityStrength": 6,
 		"cityHealth": 75,		
-		"uniques": ["Gain a free [Walls] [in this city]","[+100]% Gold given to enemy if city is captured","[+33]% weight to this choice for AI decisions"],
+		"uniques": ["Gain a free [Walls] [in this city]","[+300]% Gold given to enemy if city is captured","[+33]% weight to this choice for AI decisions"],
 		"requiredTech": "Masonry",
 		"quote": "'Un chef d'oeuvre de construction qui suscita l'admiration de toute la Gaule, et fit parler de lui jusqu'à Rome.' - Un certain guide touristique (je vous laisse deviner qui)"
 		"civilopediaText": [
