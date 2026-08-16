@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Royaume d'Angleterre",
-		"leaderName": "Roi Henri Plantagenêt",
+		"leaderName": "Roi Henri II Plantagenêt",
 		"adjective": ["Les Plantagenêt"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
