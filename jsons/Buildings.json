@@ -56,7 +56,7 @@
 		"cost": 0,
 		"requiredTech": "Metal Casting",
 		"civilopediaText": [
-            { "text": "L'ôste est le devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouve ce devoir, vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville." }
+            { "text": "L'ôste est le devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouve ce devoir, et plus vous utiliserez l'ôste dans vos villes, plus vos ouviers pourraient même avoir envie de se rebeller ! Vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville, et diminuer les risques de rebellion." }
         ]
 	},
 {
@@ -68,7 +68,7 @@
 		"cost": 0,
 		"requiredTech": "Metal Casting",
 		"civilopediaText": [
-            { "text": "L'ôste est le devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouve ce devoir, vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville." }
+            { "text": "L'ôste est le devoir qui oblige les paysans à 'rallier bannière' en cas de guerre. Autrement dit, vous forcez vos sujets à partir au frond! Surveillez votre bonheur car votre population désaprouve ce devoir, et plus vous utiliserez l'ôste dans vos villes, plus vos ouviers pourraient même avoir envie de se rebeller ! Vous pouvez à tout moment supprimer l'ôste pour faire remonter le bonheur de la ville, et diminuer les risques de rebellion." }
         ]
 	},
 	{
