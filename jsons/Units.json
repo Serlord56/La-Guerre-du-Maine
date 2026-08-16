@@ -41,7 +41,7 @@
 	{
 		"name": "Décret du Marquis",
 		"unitType": "Civilian",
-		"uniqueTo": "Maison Garnier",
+		"uniqueTo": "Maison Guerienné",
 		"replaces": "Décret Seigneurial",
 		"movement": 2,
 		"cost": 170,
@@ -285,7 +285,7 @@
 		"name": "Brezelourd",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
-		"uniqueTo": "Maison Garnier",
+		"uniqueTo": "Maison Guerienné",
 		"movement": 2,
 		"strength": 23,
 		"cost": 120,
