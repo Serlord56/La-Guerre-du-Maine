@@ -110,7 +110,7 @@
 	},
 	{
 		"name": "Muraille Gallo-romaine",
-		"uniqueTo": "Maison Garnier",
+		"uniqueTo": "Maison Guerienné",
 		"culture": 2,
 		"isWonder": true,
 		"cityStrength": 6,
@@ -134,7 +134,7 @@
 	{
 		"name": "Fabrique d'Armes",
 		"replaces": "Workshop",
-		"uniqueTo": "Maison Garnier",
+		"uniqueTo": "Maison Guerienné",
 		"maintenance": 2,
 		"production": 2,
 		"specialistSlots": {"Engineer": 1},
@@ -145,7 +145,7 @@
 	},
 	{
 		"name": "Bureau",
-		"uniqueTo": "Maison Garnier",
+		"uniqueTo": "Maison Guerienné",
 		"uniques":["[+25]% Production towards any buildings that already exist in the Capital","Limited to [1] per Civilization"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service"
