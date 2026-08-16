@@ -186,7 +186,7 @@
 			"La Payardière","Le Boulay"]
 	},
 	{
-		"name": "Maison Garnier",
+		"name": "Maison Guerienné",
 		"leaderName": "Marquis Syrion",
 		"adjective": ["Le Marquisat de Maison Garnier"],
 		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
