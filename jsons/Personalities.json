@@ -1,0 +1,598 @@
+[
+{
+    "name": "Baron Oton",
+    "production": 7,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 9,
+    "aggressive": 8,
+    "declareWar": 8,
+    "commerce": 5,
+    "diplomacy": 5,
+    "loyal": 7,
+    "expansion": 9,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 7,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Le baron Oton dit "Le Normand" est un étranger en ce Comté du Maine. Mais il est décidé à en faire son nouveau foyer."
+      }
+    ]
+  },
+{
+    "name": "Seigneur Anthèlme",
+    "production": 5,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 7,
+    "happiness": 6,
+    "faith": 7,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 7,
+    "commerce": 5,
+    "diplomacy": 5,
+    "loyal": 9,
+    "expansion": 6,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 5,
+      "Honor": 6,
+      "Commerce": 4,
+      "Patronage": 5,
+      "Piety": 6,
+      "Rationalism": 3,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Seigneur Anthèlme est imprégné de l'éducation de Saint Cénéri. Mais le conflit de la Guerre du Maine remet en question la sagesse du saint venu il y a 5 siècles."
+      }
+    ]
+  },
+{
+    "name": "Seigneur Drystan",
+    "production": 5,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 7,
+    "declareWar": 5,
+    "commerce": 6,
+    "diplomacy": 8,
+    "loyal": 6,
+    "expansion": 8,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 5,
+      "Honor": 5,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 8,
+      "Autocracy": 3,
+      "Order": 6
+    },
+    "civilopediaText": [
+      {
+        "text": "Drystan était un seigneur méconnu, issu d'une famille noble quelconque. Il œuvre aujourd'hui pour un Comté libre et indépendant, et dirige la plus large alliance de nobles du Maine partageant le même rêve que lui."
+      }
+    ]
+  },
+{
+    "name": "Seigneur Mélisende",
+    "production": 7,
+    "food": 6,
+    "gold": 5,
+    "science": 5,
+    "culture": 6,
+    "happiness": 6,
+    "faith": 6,
+    "military": 5,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 7,
+    "diplomacy": 9,
+    "loyal": 8,
+    "expansion": 6,
+    "denounceWillingness": 9,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 8,
+      "Honor": 5,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 7,
+      "Rationalism": 3,
+      "Freedom": 6,
+      "Autocracy": 2,
+      "Order": 6
+    },
+    "civilopediaText": [
+      {
+        "text": "Certains chuchotent que Mélisende serait en vérité la fille unique du baron d'Ecommoy. Elle s'habillerait en homme pour exercer pouvoir sur son fief familial, mais les rumeurs l'empêche d'obtenir officiellement le titre de baron. Ou baronne.."
+      }
+    ]
+  },
+{
+    "name": "Seigneur",
+    "production": 7,
+    "food": 5,
+    "gold": 7,
+    "science": 4,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 5,
+    "military": 9,
+    "aggressive": 9,
+    "declareWar": 9,
+    "commerce": 7,
+    "diplomacy": 3,
+    "loyal": 3,
+    "expansion": 9,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 9,
+      "Commerce": 7,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 3,
+      "Autocracy": 9,
+      "Order": 6
+    },
+    "civilopediaText": [
+      {
+        "text": "Le Seigneur à la Bannière Pourpre est le plus énigmatique personnage de ce théâtre qu'est devenu la Guerre du Maine. Nul ne sait d'où vient son titre de seigneur, mais tous savent que sa soif de sang est sans égale."
+      }
+    ]
+  },
+{
+    "name": "Baron Baudoin",
+    "production": 5,
+    "food": 5,
+    "gold": 6,
+    "science": 4,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 7,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 5,
+      "Honor": 6,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 6,
+      "Rationalism": 3,
+      "Freedom": 7,
+      "Autocracy": 3,
+      "Order": 6
+    },
+    "civilopediaText": [
+      {
+        "text": "Baron Baudoin représente avec fierté le Perche. Toujours digne, il représente le devoir, et l'autorité d'un Protecteur du Comté."
+      }
+    ]
+  },
+{
+    "name": "Baronne Mathilde",
+    "production": 5,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 7,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 8,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 6,
+      "Honor": 6,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 5,
+      "Freedom": 7,
+      "Autocracy": 4,
+      "Order": 7
+    },
+    "civilopediaText": [
+      {
+        "text": "Baronne Mathilde, héritière de l'une des plus ancienne famille du Maine, incarne la force et la droiture. Une femme de confiance, un exemple de pouvoir, mais elle le maintient d'une poigne de fer."
+      }
+    ]
+  },
+{
+    "name": "Châtelaine Suzanne",
+    "production": 5,
+    "food": 4,
+    "gold": 5,
+    "science": 5,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 5,
+    "military": 5,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 5,
+    "diplomacy": 7,
+    "loyal": 9,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 7,
+      "Honor": 6,
+      "Commerce": 4,
+      "Patronage": 4,
+      "Piety": 4,
+      "Rationalism": 5,
+      "Freedom": 4,
+      "Autocracy": 1,
+      "Order": 3
+    },
+    "civilopediaText": [
+      {
+        "text": "Suzanne sait se relevé des situations les plus délicates. La Rose des Cendres en est la parfaite représentation. Son caractère doux et son dévouement en font une alliée de choix."
+      }
+    ]
+  },
+{
+    "name": "Seigneur Gabor",
+    "production": 8,
+    "food": 5,
+    "gold": 5,
+    "science": 3,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 4,
+    "military": 9,
+    "aggressive": 7,
+    "declareWar": 9,
+    "commerce": 7,
+    "diplomacy": 4,
+    "loyal": 8,
+    "expansion": 9,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 5,
+      "Honor": 9,
+      "Commerce": 7,
+      "Patronage": 4,
+      "Piety": 3,
+      "Rationalism": 3,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 6
+    },
+    "civilopediaText": [
+      {
+        "text": "Fils de commerçants propsèrent, Gabor devint seigneur par sa propre volonté, et renonça au commerce pour lever une armée puissante afin de ramener l'ordre, et chasser les vils."
+      }
+    ]
+  },
+{
+    "name": "Seigneur Lothaire",
+    "production": 7,
+    "food": 4,
+    "gold": 5,
+    "science": 5,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 7,
+    "declareWar": 6,
+    "commerce": 5,
+    "diplomacy": 7,
+    "loyal": 9,
+    "expansion": 6,
+    "denounceWillingness": 8,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 7,
+      "Honor": 6,
+      "Commerce": 4,
+      "Patronage": 5,
+      "Piety": 4,
+      "Rationalism": 3,
+      "Freedom": 7,
+      "Autocracy": 2,
+      "Order": 7
+    },
+    "civilopediaText": [
+      {
+        "text": "Lothaire subit la défaite de la Nuit Ecarlate, mais là où les bardes le faisait choir occis sur le champ de bataille, le seigneur des Loups Chevronnés leva bannière à travers tout le Maine. Le murmure de sa disparition est devenu aujourd'hui un grondement tel l'orage, au retour inévitable. Une nouvelle armée est dorénavant prête à marcher sur l'injustice."
+      }
+    ]
+  },
+
+{
+    "name": "Marquis Syrion",
+    "production": 6,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 7,
+    "diplomacy": 4,
+    "loyal": 5,
+    "expansion": 9,
+    "denounceWillingness": 3,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 8,
+      "Honor": 9,
+      "Commerce": 7,
+      "Patronage": 9,
+      "Piety": 5,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 7,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "La Maison Kerganet incarne la force et le pouvoir. Leur armée compte parmis les meilleurs soldats du Maine."
+      }
+    ]
+  },
+{
+    "name": "Châtelaine Zina",
+    "production": 5,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 6,
+    "happiness": 8,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 6,
+    "declareWar": 8,
+    "commerce": 8,
+    "diplomacy": 5,
+    "loyal": 6,
+    "expansion": 8,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 6,
+      "Honor": 8,
+      "Commerce": 8,
+      "Patronage": 6,
+      "Piety": 6,
+      "Rationalism": 3,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Ambitieuse, exigeante et égocentrique, voilà comment l'on pourrait décrire Dame Zina, devenue la première Châtelaine de Montfort. Malgré ces défauts apparents, elle fait la meilleure gouverneure que son fief n'ai connu depuis plusieurs décennies."
+      }
+    ]
+  },
+{
+    "name": "Roi Henri II Plantagenêt",
+    "production": 7,
+    "food": 5,
+    "gold": 6,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 5,
+    "military": 9,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 7,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 9,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 8,
+      "Honor": 8,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Henri II, fondateur de la Maison Plantagenêt, dirige le plus grand Empire d'Europe. Craint mais aussi respecté par ses ennemis, celui que l'on nomme 'le briseur de châteaux' est aussi doué en stratégie militaire qu'en diplomatie. Il révolutionna l'administration, et créa le concept de fonctionnaire encore utilisé de nos jours. Un sacré gugusse !"
+      }
+    ]
+  },
+{
+    "name": "Roi Louis VII",
+    "production": 7,
+    "food": 5,
+    "gold": 6,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 5,
+    "military": 9,
+    "aggressive": 8,
+    "declareWar": 7,
+    "commerce": 7,
+    "diplomacy": 5,
+    "loyal": 5,
+    "expansion": 9,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 8,
+      "Honor": 8,
+      "Commerce": 6,
+      "Patronage": 6,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 4,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Le Royaume de Frande s'éveil et gagne en pouvoir chaque jours qui passent. Louis VII entend bien faire concurence au puissant Royaume d'Angleterre, qui a réussi à lui dérober les terres de l'Aquitaine sans même avoir à engager une armée sur le sol français. Il est temps de récupérer ce qui appartient auxf déscendants d'Huges Capet !"
+      }
+    ]
+  },
+{
+    "name": "Baron Fulbert",
+    "production": 5,
+    "food": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 9,
+    "declareWar": 8,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 8,
+    "expansion": 7,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 6,
+      "Honor": 8,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Fulbert est un baron expérimenté, aimant son peuple mais intraitable avec ses ennemis. Redoutable lors de ses sièges, presque aucunes villes ne lui résistent."
+      }
+    ]
+  },
+{
+    "name": "Baron Colin",
+    "production": 5,
+    "food": 5,
+    "gold": 7,
+    "science": 5,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 5,
+    "military": 7,
+    "aggressive": 4,
+    "declareWar": 5,
+    "commerce": 9,
+    "diplomacy": 7,
+    "loyal": 5,
+    "expansion": 6,
+    "denounceWillingness": 4,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 5,
+      "Honor": 6,
+      "Commerce": 8,
+      "Patronage": 7,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Colin aurait préféré que le Maine reste une région stable, prospère pour le commerce. Quoiqu'un peu lache, c'est un allié de taille pour une économie florissante."
+      }
+    ]
+  },
+{
+    "name": "Comtesse Astride",
+    "production": 5,
+    "food": 5,
+    "gold": 6,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 6,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 7,
+    "diplomacy": 7,
+    "loyal": 8,
+    "expansion": 8,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 6,
+      "Honor": 7,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 5,
+      "Rationalism": 3,
+      "Freedom": 5,
+      "Autocracy": 6,
+      "Order": 5
+    },
+    "civilopediaText": [
+      {
+        "text": "Astride est fidèle ainsi que courageuse pour ses alliés, et ferme face à ses ennemis. Une amie en or sans nul doute."
+      }
+    ]
+  },
+]
