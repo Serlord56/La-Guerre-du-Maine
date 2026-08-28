@@ -5,6 +5,7 @@
 		"adjective": ["Les Plantagenêt"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
+		"personality": "Roi Henri II Plantagenêt",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -37,6 +38,7 @@
 		"adjective": ["Châtelaine Zina"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
+		"personality": "Châtelaine Zina",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -67,6 +69,7 @@
 		"adjective": ["Le Seigneur à la Bannière Pourpre"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
+		"personality": "Seigneur",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -98,6 +101,7 @@
 		"adjective": ["Le seigneur de Sablé"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
+		"personality": "Baron Fulbert",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -129,6 +133,7 @@
 		"adjective": ["Seigneur des Cerfs Argentés"],
 		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Seigneur Gabor",
 		
 		"startIntroPart1": "Le Comte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer! ^^ Bienvenue seigneur ;D Vous êtes le plus jeune seigneur des terres du Maine. Vous prenez votre ascension en pleine Guerre du Trône, le roi est mort, mais vous ne le connaisiez à peine. Vous subissez de plein fouet les ravages du conflit, en témoigne la prise de Savigné l'Evêque par le seigneur à la Bannière Pourpre. Certains vous jugent trop inexpérimentés pour vous considéré comme une menace. Montrer votre valeur aux peuples du Maine, reprenez votre domaine, et faites courir votre nom sur toutes les lèvres des Rois et seigneurs. Seigneur des Cerfs Argentés, construisez votre légende!",
@@ -160,6 +165,7 @@
 		"adjective": ["Le Seigneur des Alpes Mancelles"],
 		"startBias": ["Hill", "Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Seigneur Anthèlme",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -191,6 +197,7 @@
 		"adjective": ["Le Marquisat de Maison Garnier"],
 		"startBias": ["Avoid [Coast]", "Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Marquis Syrion",
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -221,6 +228,7 @@
 		"adjective": ["Seigneur des Loups Chevronnés"],
 		"startBias": ["Plains", "Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Seigneur Lothaire",
 		
 		"startIntroPart1": "Le Comte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -252,6 +260,7 @@
 		"adjective": ["Le Roi de France"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Roi Louis VII",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -285,6 +294,7 @@
 		"adjective": ["Seigneur d'Alençon"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Baron Oton",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -316,6 +326,7 @@
 		"adjective": ["Seigneur de Ecommoy"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Seigneur Mélisende",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -347,6 +358,7 @@
 		"adjective": ["Seigneur de La Ferté Bernard"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Baron Baudoin",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -377,6 +389,7 @@
 		"adjective": ["Châtelaine de La Flèche"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Baronne Mathilde",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -407,6 +420,7 @@
 		"adjective": ["Seigneur de Sillé-le-Guillaume"],
 		"startBias": ["[Lakes]","Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Baron Colin",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -438,6 +452,7 @@
 		"adjective": ["Coallition de Sarthe"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Seigneur Drystan",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -468,6 +483,7 @@
 		"adjective": ["Comtesse de Tours"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Comtesse Astride",
 		
 		"startIntroPart1": "Le Conte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
 		"startIntroPart2": "En cette période troublée, prendre le trône ne sera pas suffisant. Le véritable vainqueur sera celui qui s'assurera la plus puissante coalition, et écrasera tous ses ennemis. La Guerre du Trône ne fait que commencer!",
@@ -499,6 +515,7 @@
 		"adjective": ["Châtelaine Suzanne de la Rose des Cendres"],
 		"startBias": ["Avoid [Coast]", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Châtelaine Suzanne",
 		"introMusic": "La Rose des Cendres.mp3",
 		
 		"startIntroPart1": "Le Comte du Maine est mort. Son trône vacant suscite bien des convoitises. Le Roi d'Angleterre cherche à reprendre le trône qui était sous son influence, mais le Roi de France dépêche ses vassaux pour récupérer ce territoire jadis français ; un carrefour stratégique entre la Normandie et l'Aquitaine, sous influence Anglaise. Seulement, les seigneurs locaux souhaitent également tirer profit de ce bouleversement politique en pleine guerre de Cent Ans.",
