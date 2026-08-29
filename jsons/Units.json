@@ -312,7 +312,7 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
-			"[-20]% Strength for enemy [Military] units in adjacent [All] tiles","[+20]% Strength <vs [Wounded] units>"],
+			"[-20]% Strength for enemy [Military] units in adjacent [All] tiles","[+20]% Strength <vs [Wounded] units>","[This Unit] gains the [Great Generals I] promotion <upon being promoted>"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
 		"civilopediaText": [
